@@ -2,5 +2,7 @@
 using namespace std;
 
 int main (){
-    cout<<"hi"<<endl;
+    int i;
+    cin>>i;
+    cout<<i-1911<<endl;
 }
